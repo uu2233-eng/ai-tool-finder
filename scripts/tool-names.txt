@@ -1,0 +1,220 @@
+# General AI & Search
+ChatGPT
+Gemini
+Claude
+Perplexity
+Microsoft Copilot
+DeepSeek
+Poe
+Character.ai
+Kimi
+Grok
+Meta AI
+Doubao
+Yandex AI
+Mistral AI
+Hugging Face
+You.com
+Liner
+Felo
+Baidu ERNIE
+Zhipu AI
+Pi.ai
+Phind
+NotebookLM
+Exa
+Qwen
+Hix.ai
+Monica
+Sider
+MaxAI.me
+ChatPDF
+Humata.ai
+Bearly.ai
+Consensus
+Elicit
+SciSpace
+Harpa.ai
+Magical
+Brave Leo
+DuckDuckGo AI Chat
+Tavily
+
+# Image Generation
+Midjourney
+Leonardo.ai
+Ideogram
+Adobe Firefly
+Recraft.ai
+Civitai
+Flair.ai
+Nano Banana
+Artbreeder
+SeaArt
+Magnific AI
+Vectorizer.ai
+
+# Video Generation
+Runway
+Luma AI
+Sora
+Kling
+Pika Art
+Pixverse
+Rosebud AI
+InVideo AI
+Viggle
+HeyGen
+D-ID
+Synthesia
+
+# Audio & Music
+Suno AI
+Udio
+ElevenLabs
+Speechify
+Rask.ai
+Lovo.ai
+Play.ht
+Murf.ai
+Splash Music
+Aiva
+Mubert
+Soundraw
+
+# Design & Creative
+Canva
+CapCut
+Clipchamp
+Remini
+Photoroom
+Krea.ai
+Mojo
+Picsart AI
+Kaiber
+Looka
+Brandmark
+Khroma
+Descript
+Vimeo AI
+
+# Developer Tools
+Cursor
+Replit
+Lovable
+Bolt.new
+Vercel v0
+GitHub Copilot
+Antigravity
+Warp
+Supabase AI
+Aider
+Codeium
+Tabnine
+Sourcegraph Cody
+Amazon CodeWhisperer
+Pieces for Developers
+Framer AI
+Webflow AI
+Softr AI
+FlutterFlow
+Appy Pie
+Buildship
+Postman Postbot
+Snyk AI
+Percepto
+
+# AI Infrastructure
+Pinecone
+LangChain
+LlamaIndex
+Flowise AI
+Dify.ai
+Coze
+Weights and Biases
+Together AI
+Groq
+PromptBase
+Snorkel AI
+Anyscale
+Lambda Labs
+Vast.ai
+RunPod
+Modal
+BentoML
+Triton
+LangSmith
+Helicone
+LiteLLM
+OpenRouter
+Deepgram
+AssemblyAI
+Tavus
+
+# Writing & Marketing
+Jasper
+Copy.ai
+Writesonic
+Quillbot
+Grammarly AI
+Rytr
+Anyword
+Wordtune
+Simplified
+SocialBee
+Lavender
+
+# Productivity & Office
+Notion AI
+Gamma
+DeepL
+Zapier Central
+Make
+Otter.ai
+Fireflies.ai
+Glean
+Beautiful.ai
+Tome
+Typeform AI
+SurveySparrow
+Feedly Leo
+Readwise Reader
+Shortwave
+Superhuman
+Gong
+ChurnZero
+Zendesk AI
+Intercom Fin
+Loom
+Taskade
+Miro Assist
+Whimsical
+ClickUp AI
+Monday.com AI
+Asana AI
+Hive Mind
+Mem.ai
+
+# Education & Learning
+Khan Academy Khanmigo
+Duolingo Max
+Quizlet Q-Chat
+Brainly
+Chegg AI
+Coursera Coach
+Udemy AI
+
+# Entertainment & Lifestyle
+Ancestry AI
+Replika
+Talkie
+JanitorAI
+CharacterHub
+NovelAI
+Sudowrite
+Fitbod
+Mealime
+Woebot
+DoNotPay
+Perflow
+Futurepedia
