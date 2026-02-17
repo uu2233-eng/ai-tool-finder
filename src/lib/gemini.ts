@@ -1,6 +1,7 @@
 import {
   GoogleGenerativeAI,
   SchemaType,
+  type FunctionDeclaration,
 } from "@google/generative-ai";
 import {
   searchTools,
@@ -147,7 +148,7 @@ export async function chat(
   const model = genAI.getGenerativeModel({
     model: "gemini-2.0-flash",
     systemInstruction: SYSTEM_PROMPT,
-    tools: [{ functionDeclarations }],
+    tools: [{ functionDeclarations: functionDeclarations as unknown as FunctionDeclaration[] }],
   });
 
   // Convert to Gemini format (exclude the last message, it'll be sent separately)
