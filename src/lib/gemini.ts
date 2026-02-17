@@ -173,7 +173,7 @@ export async function chat(
 
     const functionCalls = response.functionCalls()!;
     const functionResponses = functionCalls.map((call) => {
-      const { result: fnResult, tools } = executeFunctionCall(call);
+      const { result: fnResult, tools } = executeFunctionCall(call as unknown as { name: string; args: Record<string, unknown> });
       allToolCards.push(...tools);
       return {
         functionResponse: {
