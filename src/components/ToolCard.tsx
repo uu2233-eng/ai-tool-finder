@@ -6,11 +6,11 @@ export function ToolCard({ tool }: { tool: AITool }) {
       href={tool.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="group flex flex-col rounded-xl border border-gray-200 bg-white p-4 transition-all hover:border-blue-300 hover:shadow-md dark:border-gray-700 dark:bg-gray-800 dark:hover:border-blue-600"
+      className="tool-card-hover group flex flex-col rounded-2xl border border-gray-200/80 bg-white/90 p-4 backdrop-blur-sm dark:border-gray-700/80 dark:bg-gray-800/90"
     >
       <div className="mb-2 flex items-start justify-between gap-2">
         <div className="min-w-0">
-          <h3 className="truncate font-semibold text-gray-900 group-hover:text-blue-600 dark:text-gray-100 dark:group-hover:text-blue-400">
+          <h3 className="truncate font-semibold text-gray-900 group-hover:text-indigo-600 dark:text-gray-100 dark:group-hover:text-indigo-400 transition-colors">
             {tool.name}
           </h3>
           <p className="text-xs text-gray-500 dark:text-gray-400">
@@ -18,17 +18,17 @@ export function ToolCard({ tool }: { tool: AITool }) {
           </p>
         </div>
         <span
-          className={`shrink-0 rounded-full px-2 py-0.5 text-xs font-medium ${
+          className={`shrink-0 rounded-full px-2.5 py-0.5 text-xs font-semibold ${
             tool.pricing.free
-              ? "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-400"
-              : "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-400"
+              ? "bg-emerald-100 text-emerald-700 ring-1 ring-emerald-200/60 dark:bg-emerald-900/30 dark:text-emerald-400 dark:ring-emerald-800/40"
+              : "bg-amber-100 text-amber-700 ring-1 ring-amber-200/60 dark:bg-amber-900/30 dark:text-amber-400 dark:ring-amber-800/40"
           }`}
         >
           {tool.pricing.free ? "Free" : tool.pricing.startingPrice}
         </span>
       </div>
 
-      <p className="mb-3 line-clamp-2 text-sm text-gray-600 dark:text-gray-300">
+      <p className="mb-3 line-clamp-2 text-sm leading-relaxed text-gray-600 dark:text-gray-300">
         {tool.description}
       </p>
 
@@ -36,17 +36,17 @@ export function ToolCard({ tool }: { tool: AITool }) {
         {tool.bestFor.slice(0, 3).map((use) => (
           <span
             key={use}
-            className="rounded-md bg-gray-100 px-2 py-0.5 text-xs text-gray-600 dark:bg-gray-700 dark:text-gray-300"
+            className="rounded-lg bg-gray-100/80 px-2 py-0.5 text-xs text-gray-600 dark:bg-gray-700/80 dark:text-gray-300"
           >
             {use}
           </span>
         ))}
       </div>
 
-      <div className="mt-3 flex items-center text-xs font-medium text-blue-600 dark:text-blue-400">
+      <div className="mt-3 flex items-center text-xs font-semibold text-indigo-600 dark:text-indigo-400">
         Visit website
         <svg
-          className="ml-1 h-3 w-3 transition-transform group-hover:translate-x-0.5"
+          className="ml-1 h-3 w-3 transition-transform group-hover:translate-x-1"
           fill="none"
           viewBox="0 0 24 24"
           stroke="currentColor"

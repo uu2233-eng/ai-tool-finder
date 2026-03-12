@@ -8,7 +8,9 @@
     "start": "next start",
     "lint": "eslint",
     "kb:build": "npx tsx scripts/build-knowledge-base.ts",
-    "kb:update": "npx tsx scripts/build-knowledge-base.ts"
+    "kb:update": "npx tsx scripts/build-knowledge-base.ts",
+    "kb:discover": "npx tsx scripts/discover-new-tools.ts",
+    "kb:refresh": "npx tsx scripts/refresh-tools.ts"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

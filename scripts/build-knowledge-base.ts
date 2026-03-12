@@ -13,7 +13,9 @@ function loadEnv() {
       const eqIndex = trimmed.indexOf("=");
       if (eqIndex > 0) {
         const key = trimmed.slice(0, eqIndex).trim();
-        const value = trimmed.slice(eqIndex + 1).trim();
+        let value = trimmed.slice(eqIndex + 1).trim();
+        if (value.startsWith('"') && value.endsWith('"')) value = value.slice(1, -1);
+        else if (value.startsWith("'") && value.endsWith("'")) value = value.slice(1, -1);
         process.env[key] = value;
       }
     }
@@ -193,8 +195,10 @@ async function main() {
       const results = await researchBatch(batch);
 
       for (const tool of results) {
+        const record = tool as Record<string, unknown>;
         allTools.push({
-          ...(tool as Record<string, unknown>),
+          ...record,
+          name: typeof record.name === "string" ? record.name : "Unknown",
           id: nextId++,
           lastUpdated: new Date().toISOString().split("T")[0],
         });

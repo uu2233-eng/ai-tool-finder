@@ -1,220 +1,276 @@
 # General AI & Search
-ChatGPT
-Gemini
-Claude
-Perplexity
-Microsoft Copilot
-DeepSeek
-Poe
-Character.ai
-Kimi
-Grok
-Meta AI
-Doubao
-Yandex AI
-Mistral AI
-Hugging Face
-You.com
-Liner
-Felo
+Andi
+Arc Search
 Baidu ERNIE
-Zhipu AI
-Pi.ai
-Phind
-NotebookLM
-Exa
-Qwen
-Hix.ai
-Monica
-Sider
-MaxAI.me
-ChatPDF
-Humata.ai
 Bearly.ai
-Consensus
-Elicit
-SciSpace
-Harpa.ai
-Magical
 Brave Leo
+Character.ai
+ChatGPT
+ChatPDF
+Claude
+Consensus
+DeepSeek
+Doubao
 DuckDuckGo AI Chat
+Elicit
+Exa
+Felo
+Gemini
+Grok
+Harpa.ai
+Hix.ai
+Hugging Face
+Humata.ai
+Kagi
+Kimi
+Liner
+Magical
+MaxAI.me
+Meta AI
+Microsoft Copilot
+Mistral AI
+Monica
+NotebookLM
+Perplexity
+Phind
+Pi.ai
+Poe
+Qwen
+SciSpace
+Sider
 Tavily
+Yandex AI
+You.com
+Zhipu AI
 
 # Image Generation
-Midjourney
-Leonardo.ai
-Ideogram
 Adobe Firefly
-Recraft.ai
-Civitai
-Flair.ai
-Nano Banana
 Artbreeder
-SeaArt
+Civitai
+DomoAI
+Firefly 3
+Flair.ai
+Ideogram
+Jasper Art
+LeiaPix Converter
+Leonardo.ai
 Magnific AI
+Midjourney
+Nano Banana
+Prodia
+Recraft.ai
+SeaArt
+Stable Diffusion 3
+Stable Diffusion XL
 Vectorizer.ai
 
 # Video Generation
-Runway
-Luma AI
-Sora
+Colossyan Creator
+D-ID
+Haiper
+HeyGen
+InVideo AI
 Kling
+Luma AI
 Pika Art
 Pixverse
+Recast Studio
 Rosebud AI
-InVideo AI
-Viggle
-HeyGen
-D-ID
+Runway
+Sora
 Synthesia
+Viggle
+Wonder Dynamics
 
 # Audio & Music
+Aiva
+Beatoven.ai
+Coqui AI
+Coqui Studio
+ElevenLabs
+Emergent Drums
+Lovo.ai
+Magma
+Mubert
+Murf.ai
+Play.ht
+Rask.ai
+Soundraw
+Speechify
+Splash Music
+Stable Audio
 Suno AI
 Udio
-ElevenLabs
-Speechify
-Rask.ai
-Lovo.ai
-Play.ht
-Murf.ai
-Splash Music
-Aiva
-Mubert
-Soundraw
+Wondercraft AI
 
 # Design & Creative
+Brandmark
 Canva
 CapCut
 Clipchamp
-Remini
-Photoroom
-Krea.ai
-Mojo
-Picsart AI
-Kaiber
-Looka
-Brandmark
-Khroma
 Descript
+Diagram AI
+Galileo AI
+Kaiber
+Khroma
+Krea.ai
+Looka
+Mojo
+Phonto AI
+Photoroom
+Phygital+
+Picsart AI
+Relume AI
+Remini
 Vimeo AI
 
 # Developer Tools
-Cursor
-Replit
-Lovable
-Bolt.new
-Vercel v0
-GitHub Copilot
-Antigravity
-Warp
-Supabase AI
 Aider
-Codeium
-Tabnine
-Sourcegraph Cody
 Amazon CodeWhisperer
-Pieces for Developers
-Framer AI
-Webflow AI
-Softr AI
-FlutterFlow
+Antigravity
 Appy Pie
+Bolt.new
 Buildship
-Postman Postbot
-Snyk AI
+ChatBotKit
+Chatbase
+Codeium
+Continue.dev
+Cursor
+Debuild
+DhiWise
+FlutterFlow
+Framer AI
+Fronty
+GitHub Copilot
+Langfuse
+Locofy.ai
+Lovable
 Percepto
+Pieces for Developers
+Postman Postbot
+Replit
+Snyk AI
+Softr AI
+Sourcegraph Cody
+Supabase AI
+Tabnine
+TeleportHQ
+Vercel v0
+Warp
+Webflow AI
 
 # AI Infrastructure
-Pinecone
-LangChain
-LlamaIndex
-Flowise AI
-Dify.ai
-Coze
-Weights and Biases
-Together AI
-Groq
-PromptBase
-Snorkel AI
 Anyscale
-Lambda Labs
-Vast.ai
-RunPod
-Modal
-BentoML
-Triton
-LangSmith
-Helicone
-LiteLLM
-OpenRouter
-Deepgram
 AssemblyAI
+Banana.dev
+BentoML
+Coze
+Deepgram
+Dify.ai
+Flowise AI
+Groq
+Helicone
+Lambda Labs
+LangChain
+LangSmith
+LiteLLM
+LlamaIndex
+Modal
+Modal Labs
+OpenRouter
+Peridot AI
+Pinecone
+PromptBase
+RunPod
+Snorkel AI
 Tavus
+Together AI
+Triton
+Vast.ai
+Weights & Biases
 
 # Writing & Marketing
-Jasper
-Copy.ai
-Writesonic
-Quillbot
-Grammarly AI
-Rytr
 Anyword
-Wordtune
+ContentForge AI
+Copy.ai
+Gling AI
+Grammarly AI
+Jasper
+Lavender
+Quillbot
+Rytr
+Scalenut
 Simplified
 SocialBee
-Lavender
+Surfer SEO
+Wordtune
+Writesonic
 
 # Productivity & Office
-Notion AI
-Gamma
-DeepL
-Zapier Central
-Make
-Otter.ai
-Fireflies.ai
-Glean
+Asana AI
 Beautiful.ai
-Tome
-Typeform AI
-SurveySparrow
+ChatMind
+ChurnZero
+ClickUp AI
+DeepL
 Feedly Leo
+Fireflies.ai
+Gamma
+Gamma App
+Glean
+Gong
+Hive Mind
+Intercom Fin
+Loom
+Make
+Mem
+Mem.ai
+Miro Assist
+Monday.com AI
+Notion AI
+Otter.ai
 Readwise Reader
 Shortwave
 Superhuman
-Gong
-ChurnZero
-Zendesk AI
-Intercom Fin
-Loom
+SurveySparrow
 Taskade
-Miro Assist
+Tome
+Typeform AI
 Whimsical
-ClickUp AI
-Monday.com AI
-Asana AI
-Hive Mind
-Mem.ai
+Zapier Central
+Zendesk AI
 
 # Education & Learning
-Khan Academy Khanmigo
-Duolingo Max
-Quizlet Q-Chat
 Brainly
 Chegg AI
 Coursera Coach
+Duolingo Max
+ExplainLikeI'mFive
+Gradescope
+Khan Academy Khanmigo
+Khanmigo
+Quizgecko
+Quizlet Q-Chat
 Udemy AI
 
 # Entertainment & Lifestyle
 Ancestry AI
-Replika
-Talkie
-JanitorAI
+Character AI
 CharacterHub
-NovelAI
-Sudowrite
-Fitbod
-Mealime
-Woebot
 DoNotPay
-Perflow
+Fitbod
 Futurepedia
+JanitorAI
+Mealime
+NovelAI
+Perflow
+Replika
+Sudowrite
+Talkie
+Woebot
+
+# Data & Research
+Explainpaper
+Galactica
+Scholarcy
+

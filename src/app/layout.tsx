@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { ErrorBoundary } from "@/components/ErrorBoundary";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -25,6 +26,18 @@ export const metadata: Metadata = {
     "Midjourney",
     "AI assistant",
   ],
+  openGraph: {
+    title: "AI Tool Finder - Find the Perfect AI Tool",
+    description:
+      "Discover the best AI tools for your needs from our curated database of 200+ tools.",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "AI Tool Finder",
+    description:
+      "Discover the best AI tools for your needs. Powered by Gemini AI.",
+  },
 };
 
 export default function RootLayout({
@@ -33,11 +46,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <ErrorBoundary>{children}</ErrorBoundary>
       </body>
     </html>
   );
